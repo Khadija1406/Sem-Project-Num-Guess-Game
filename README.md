@@ -14,10 +14,10 @@ An interactive, terminal-based number guessing game built in C where the compute
 . Well-structured code using struct and modular functions
 
 📚 Learning Highlights
-.Input handling with fgets() and sscanf()
+. Input handling with fgets() and sscanf()
 
-.Use of struct for game configuration
+. Use of struct for game configuration
 
-.ANSI escape codes for visual design
+. ANSI escape codes for visual design
 
-.Handling invalid and inconsistent input
+. Handling invalid and inconsistent input
