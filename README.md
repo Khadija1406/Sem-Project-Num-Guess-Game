@@ -1,6 +1,5 @@
 # Sem-Project-Num-Guess-Game
-A fun C game where the computer tries to guess a  number user is thinking of. 
-🎮 Number Guessing Game in C
+A 🎮 fun Number Guessing Game in C game where the computer tries to guess a  number user is thinking of. 
 An interactive, terminal-based number guessing game built in C where the computer guesses your number using your feedback! Designed with colorful UI, level selection, input validation, and cheat detection to enhance the user experience.
 
 🚀 Features
